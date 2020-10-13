@@ -16,7 +16,7 @@ O <strong>Happy</strong> é uma aplicação Web e Mobile para facilitar o encont
 
 ## 🚀 Tecnologias usadas
 
-Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -36,30 +36,19 @@ Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/jrjuniorcg/ecoleta.git
+  $ git clone https://github.com/jrjuniorcg/happy.git
 ```
 
 2. Executando a Aplicação:
 
 ```sh
   # Instale as dependências
-  $ npm install
-
-  ## Crie o banco de dados
-  $ cd server
-  $ npm run knex:migrate
-  $ npm run knex:seed
-
-  # Inicie a API
-  $ npm run dev
+  $ npm install ou yarn
 
   # Inicie a aplicação web
   $ cd web
-  $ npm start
+  $ npm start ou yarn start
 
-  # Inicie a aplicação mobile
-  $ cd mobile
-  $ npm start
 ```
 
 <a id="como-contribuir"></a>
@@ -80,8 +69,6 @@ As aulas foram ministradas pelo mestre jedi **[Diego Fernandes](https://github.c
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ## Agradecimentos
-
-A seção `como usar` foi inspirada no README do **[Vitor Serrano](https://github.com/vitorserrano)**, vai lá para dar uma conferida no projeto do mesmo! 🤘
 
 
 <h4 align="center">
